@@ -16,4 +16,5 @@ Acesse aqui:
 https://miguel-cardozo.github.io/miguel-dev-landing/
 
 ## 📌 Autor
-Miguel Cardozo
+Miguel Cardozo Gomes 
+
